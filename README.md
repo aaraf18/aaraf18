@@ -43,9 +43,6 @@ Here are the projects included in this repository:
 - [**Cybersecurity Incident Report: Network Traffic Analysis**]([./projects/network-traffic-analysis](https://github.com/aaraf18/Cybersecurity-Incident-Report-Network-Traffic-Analysis))  
   Investigated suspicious network activity using traffic logs, identified anomalies, and documented findings in a professional report format.  
 
-- [**Cybersecurity Incident Report**](./projects/incident-report)  
-  Wrote a structured cybersecurity incident report following industry standards (NIST/CIS), outlining incident details, impact, and recommendations.  
-
 - [**Data Leak Worksheet**](./projects/data-leak-worksheet)  
   Identified possible data leaks, documented their scope, and provided remediation steps to minimize organizational exposure.  
 
@@ -63,9 +60,6 @@ Here are the projects included in this repository:
 
 - [**Risk Register**](./projects/risk-register)  
   Built a detailed register of risks, classifying threats by likelihood and impact to prioritize mitigation efforts.  
-
-- [**Security Risk Assessment Report**](./projects/security-risk-assessment)  
-  Conducted a full organizational risk assessment, identifying vulnerabilities and recommending appropriate controls.  
 
 - [**Vulnerability Assessment Report**](./projects/vulnerability-assessment)  
   Performed a vulnerability assessment, documented weaknesses, and suggested remediation strategies to improve security posture.  
