@@ -28,7 +28,7 @@ My current career objective is to become a **Tier 1 SOC Analyst**, where I can a
 
 Here are the projects included in this repository:  
 
-- [**Algorithm for File Updates in Python**](./projects/algorithm-file-updates-python)  
+- [**Algorithm for File Updates in Python**](https://github.com/aaraf18/Algorithm-for-file-updates-in-Python)  
   Developed a Python script to securely update files, ensuring accuracy and integrity during the process. Showcases automation and scripting skills.  
 
 - [**Apply Filters to SQL Queries**](./projects/sql-query-filters)  
