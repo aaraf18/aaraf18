@@ -37,7 +37,7 @@ Here are the projects included in this repository:
 - [**Apply Filters to SQL Queries**](./projects/sql-query-filters)  
   Applied advanced filtering techniques to SQL queries for extracting and analyzing meaningful security-related data from large datasets.  
 
-- [**Cybersecurity Incident Report: Network Traffic Analysis**](./projects/network-traffic-analysis)  
+- [**Cybersecurity Incident Report: Network Traffic Analysis**]([./projects/network-traffic-analysis](https://github.com/aaraf18/Cybersecurity-Incident-Report-Network-Traffic-Analysis))  
   Investigated suspicious network activity using traffic logs, identified anomalies, and documented findings in a professional report format.  
 
 - [**Cybersecurity Incident Report**](./projects/incident-report)  
@@ -77,7 +77,7 @@ Here are the projects included in this repository:
 | SQL Queries             | [Apply Filters to SQL Queries](./projects/sql-query-filters) |
 | Linux Administration    | [File Permissions in Linux](./projects/file-permissions-linux) |
 | Incident Response       | [Incident Handler's Journal](./projects/incident-handlers-journal), [Cybersecurity Incident Report](./projects/incident-report), [Incident Report Analysis](./projects/incident-report-analysis) |
-| Network Traffic Analysis| [Cybersecurity Incident Report: Network Traffic Analysis](./projects/network-traffic-analysis) |
+| Network Traffic Analysis| [Cybersecurity Incident Report: Network Traffic Analysis](https://github.com/aaraf18/Cybersecurity-Incident-Report-Network-Traffic-Analysis) |
 | Risk & Vulnerability Mgmt | [Risk Register](./projects/risk-register), [Security Risk Assessment Report](./projects/security-risk-assessment), [Vulnerability Assessment Report](./projects/vulnerability-assessment) |
 | Asset Management        | [Home Asset Inventory](./projects/home-asset-inventory) |
 | Data Security           | [Data Leak Worksheet](./projects/data-leak-worksheet) |
