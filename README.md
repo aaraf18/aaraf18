@@ -33,15 +33,18 @@ Here are the projects included in this repository:
 
 - [**Conducting a Security Audit**](https://github.com/aaraf18/Conducting-a-security-audit)  
   Performed a security audit to identify vulnerabilities, misconfigurations, and security gaps in an organization. Generated a detailed report with recommendations to improve cybersecurity posture.
+
+- [**Cybersecurity Incident Report: Network Traffic Analysis**](https://github.com/aaraf18/Cybersecurity-Incident-Report-Network-Traffic-Analysis)
+  Investigated suspicious network activity using traffic logs, identified anomalies, and documented findings in a professional report format.
+  
+- [**Incident Report Analysis**](https://github.com/aaraf18/Incident-Report-Analysis)  
+  Analyzed and broke down a sample incident report to identify gaps, strengths, and lessons learned for future responses. 
   
 - [**Algorithm for File Updates in Python**](https://github.com/aaraf18/Algorithm-for-file-updates-in-Python)  
   Developed a Python script to securely update files, ensuring accuracy and integrity during the process. Showcases automation and scripting skills.  
 
 - [**Apply Filters to SQL Queries**](./projects/sql-query-filters)  
-  Applied advanced filtering techniques to SQL queries for extracting and analyzing meaningful security-related data from large datasets.  
-
-- [**Cybersecurity Incident Report: Network Traffic Analysis**]([./projects/network-traffic-analysis](https://github.com/aaraf18/Cybersecurity-Incident-Report-Network-Traffic-Analysis))  
-  Investigated suspicious network activity using traffic logs, identified anomalies, and documented findings in a professional report format.  
+  Applied advanced filtering techniques to SQL queries for extracting and analyzing meaningful security-related data from large datasets.    
 
 - [**Data Leak Worksheet**](./projects/data-leak-worksheet)  
   Identified possible data leaks, documented their scope, and provided remediation steps to minimize organizational exposure.  
@@ -53,10 +56,7 @@ Here are the projects included in this repository:
   Created an inventory of home network assets, identifying potential risks and prioritizing mitigation strategies.  
 
 - [**Incident Handler's Journal**](./projects/incident-handlers-journal)  
-  Documented step-by-step actions taken during a cybersecurity incident, demonstrating structured incident handling skills.  
-
-- [**Incident Report Analysis**](./projects/incident-report-analysis)  
-  Analyzed and broke down a sample incident report to identify gaps, strengths, and lessons learned for future responses.  
+  Documented step-by-step actions taken during a cybersecurity incident, demonstrating structured incident handling skills.   
 
 - [**Risk Register**](./projects/risk-register)  
   Built a detailed register of risks, classifying threats by likelihood and impact to prioritize mitigation efforts.  
@@ -74,9 +74,9 @@ Here are the projects included in this repository:
 | Security Auditing       | [Conducting a Security Audit](https://github.com/aaraf18/Conducting-a-security-audit) |
 | SQL Queries             | [Apply Filters to SQL Queries](./projects/sql-query-filters) |
 | Linux Administration    | [File Permissions in Linux](./projects/file-permissions-linux) |
-| Incident Response       | [Incident Handler's Journal](./projects/incident-handlers-journal), [Cybersecurity Incident Report](./projects/incident-report), [Incident Report Analysis](./projects/incident-report-analysis) |
+| Incident Response       | [Incident Handler's Journal](./projects/incident-handlers-journal), [Incident Report Analysis](https://github.com/aaraf18/Incident-Report-Analysis) |
 | Network Traffic Analysis| [Cybersecurity Incident Report: Network Traffic Analysis](https://github.com/aaraf18/Cybersecurity-Incident-Report-Network-Traffic-Analysis) |
-| Risk & Vulnerability Mgmt | [Risk Register](./projects/risk-register), [Security Risk Assessment Report](./projects/security-risk-assessment), [Vulnerability Assessment Report](./projects/vulnerability-assessment) |
+| Risk & Vulnerability Mgmt | [Risk Register](./projects/risk-register), [Vulnerability Assessment Report](./projects/vulnerability-assessment) |
 | Asset Management        | [Home Asset Inventory](./projects/home-asset-inventory) |
 | Data Security           | [Data Leak Worksheet](./projects/data-leak-worksheet) |
 
