@@ -31,6 +31,9 @@ Here are the projects included in this repository:
 - [**Snake Game (Old Button Phone Style)**](https://github.com/aaraf18/Snake-Game)  
   A classic snake game recreated in Python, inspired by old button phone gameplay. Demonstrates Python fundamentals, game logic, and use of libraries to handle movement and collisions.
 
+- [**Conducting a Security Audit**](https://github.com/aaraf18/Conducting-a-security-audit)  
+  Performed a security audit to identify vulnerabilities, misconfigurations, and security gaps in an organization. Generated a detailed report with recommendations to improve cybersecurity posture.
+  
 - [**Algorithm for File Updates in Python**](https://github.com/aaraf18/Algorithm-for-file-updates-in-Python)  
   Developed a Python script to securely update files, ensuring accuracy and integrity during the process. Showcases automation and scripting skills.  
 
@@ -74,6 +77,7 @@ Here are the projects included in this repository:
 | **Skill**              | **Associated Projects** |
 |-------------------------|--------------------------|
 | Python Programming      | [Algorithm for File Updates in Python](https://github.com/aaraf18/Algorithm-for-file-updates-in-Python), [Snake Game](https://github.com/aaraf18/Snake-Game) |
+| Security Auditing       | [Conducting a Security Audit](https://github.com/aaraf18/Conducting-a-security-audit) |
 | SQL Queries             | [Apply Filters to SQL Queries](./projects/sql-query-filters) |
 | Linux Administration    | [File Permissions in Linux](./projects/file-permissions-linux) |
 | Incident Response       | [Incident Handler's Journal](./projects/incident-handlers-journal), [Cybersecurity Incident Report](./projects/incident-report), [Incident Report Analysis](./projects/incident-report-analysis) |
