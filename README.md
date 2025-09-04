@@ -43,11 +43,11 @@ Here are the projects included in this repository:
 - [**File Permissions in Linux**](https://github.com/aaraf18/File-Permissions-in-Linux)  
   Configured Linux file permissions and ownership to maintain security across multiple users and groups.
 
-- [**Algorithm for File Updates in Python**](https://github.com/aaraf18/Algorithm-for-file-updates-in-Python)  
-  Developed a Python script to securely update files, ensuring accuracy and integrity during the process. Showcases automation and scripting skills.  
+- [**Apply Filters to SQL Queries**](https://github.com/aaraf18/Apply-Filters-to-SQL-Queries)  
+  Applied advanced filtering techniques to SQL queries for extracting and analyzing meaningful security-related data from large datasets.   
 
-- [**Apply Filters to SQL Queries**](./projects/sql-query-filters)  
-  Applied advanced filtering techniques to SQL queries for extracting and analyzing meaningful security-related data from large datasets.    
+- [**Algorithm for File Updates in Python**](https://github.com/aaraf18/Algorithm-for-file-updates-in-Python)  
+  Developed a Python script to securely update files, ensuring accuracy and integrity during the process. Showcases automation and scripting skills.   
 
 - [**Data Leak Worksheet**](./projects/data-leak-worksheet)  
   Identified possible data leaks, documented their scope, and provided remediation steps to minimize organizational exposure.  
@@ -72,7 +72,7 @@ Here are the projects included in this repository:
 |-------------------------|--------------------------|
 | Python Programming      | [Algorithm for File Updates in Python](https://github.com/aaraf18/Algorithm-for-file-updates-in-Python), [Snake Game](https://github.com/aaraf18/Snake-Game) |
 | Security Auditing       | [Conducting a Security Audit](https://github.com/aaraf18/Conducting-a-security-audit) |
-| SQL Queries             | [Apply Filters to SQL Queries](./projects/sql-query-filters) |
+| SQL Queries             | [Apply Filters to SQL Queries](https://github.com/aaraf18/Apply-Filters-to-SQL-Queries) |
 | Linux Administration    | [File Permissions in Linux](https://github.com/aaraf18/File-Permissions-in-Linux) |
 | Incident Response       | [Incident Handler's Journal](./projects/incident-handlers-journal), [Incident Report Analysis](https://github.com/aaraf18/Incident-Report-Analysis) |
 | Network Traffic Analysis| [Cybersecurity Incident Report: Network Traffic Analysis](https://github.com/aaraf18/Cybersecurity-Incident-Report-Network-Traffic-Analysis) |
