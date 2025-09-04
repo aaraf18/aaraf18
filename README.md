@@ -74,20 +74,24 @@ Here are the projects included in this repository:
 ## 🛠️ Tools by Category  
 
 **🔍 Analysis & Monitoring**  
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
 ![SIEM](https://img.shields.io/badge/SIEM-Log%20Analysis-orange?style=for-the-badge)  
 
 **💻 Programming & Queries**  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 **🖥️ Operating Systems & Security**  
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![File Permissions](https://img.shields.io/badge/File%20Permissions-Security-critical?style=for-the-badge)  
 
 ---
 
 ## 📜 Certificates  
+
 
 [![Google Logo](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg)](https://coursera.org/verify/professional-cert/VBJ0URH6SY57)  
 Google Cybersecurity Professional Certificate  
@@ -99,7 +103,9 @@ Stanford Code in Place Certificate
 
 ## 📫 Connect with Me  
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedaaraf)  
+
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asaaraf1811@gmail.com)      
 
 ---
