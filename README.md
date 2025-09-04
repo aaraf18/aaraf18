@@ -49,11 +49,11 @@ Here are the projects included in this repository:
 - [**Vulnerability Assessment Report**](https://github.com/aaraf18/Vulnerability-Assessment-Report)  
   Performed a vulnerability assessment, documented weaknesses, and suggested remediation strategies to improve security posture.
   
+- [**Incident Handler's Journal**](https://github.com/aaraf18/Incident-Handler-s-Journal)  
+  Documented step-by-step actions taken during a cybersecurity incident, demonstrating structured incident handling skills.
+  
 - [**Algorithm for File Updates in Python**](https://github.com/aaraf18/Algorithm-for-file-updates-in-Python)  
   Developed a Python script to securely update files, ensuring accuracy and integrity during the process. Showcases automation and scripting skills.      
-
-- [**Incident Handler's Journal**](./projects/incident-handlers-journal)  
-  Documented step-by-step actions taken during a cybersecurity incident, demonstrating structured incident handling skills.
 
 ---
 
@@ -65,7 +65,7 @@ Here are the projects included in this repository:
 | Security Auditing       | [Conducting a Security Audit](https://github.com/aaraf18/Conducting-a-security-audit) |
 | SQL Queries             | [Apply Filters to SQL Queries](https://github.com/aaraf18/Apply-Filters-to-SQL-Queries) |
 | Linux Administration    | [File Permissions in Linux](https://github.com/aaraf18/File-Permissions-in-Linux) |
-| Incident Response       | [Incident Handler's Journal](./projects/incident-handlers-journal), [Incident Report Analysis](https://github.com/aaraf18/Incident-Report-Analysis) |
+| Incident Response       | [Incident Handler's Journal](https://github.com/aaraf18/Incident-Handler-s-Journal), [Incident Report Analysis](https://github.com/aaraf18/Incident-Report-Analysis) |
 | Network Traffic Analysis| [Cybersecurity Incident Report: Network Traffic Analysis](https://github.com/aaraf18/Cybersecurity-Incident-Report-Network-Traffic-Analysis) |
 | Risk & Vulnerability Mgmt | [Vulnerability Assessment Report](https://github.com/aaraf18/Vulnerability-Assessment-Report) |
 
