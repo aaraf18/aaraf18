@@ -47,13 +47,7 @@ Here are the projects included in this repository:
   Applied advanced filtering techniques to SQL queries for extracting and analyzing meaningful security-related data from large datasets.   
 
 - [**Algorithm for File Updates in Python**](https://github.com/aaraf18/Algorithm-for-file-updates-in-Python)  
-  Developed a Python script to securely update files, ensuring accuracy and integrity during the process. Showcases automation and scripting skills.   
-
-- [**Data Leak Worksheet**](./projects/data-leak-worksheet)  
-  Identified possible data leaks, documented their scope, and provided remediation steps to minimize organizational exposure.  
-
-- [**Home Asset Inventory**](./projects/home-asset-inventory)  
-  Created an inventory of home network assets, identifying potential risks and prioritizing mitigation strategies.  
+  Developed a Python script to securely update files, ensuring accuracy and integrity during the process. Showcases automation and scripting skills.      
 
 - [**Incident Handler's Journal**](./projects/incident-handlers-journal)  
   Documented step-by-step actions taken during a cybersecurity incident, demonstrating structured incident handling skills.   
@@ -76,9 +70,7 @@ Here are the projects included in this repository:
 | Linux Administration    | [File Permissions in Linux](https://github.com/aaraf18/File-Permissions-in-Linux) |
 | Incident Response       | [Incident Handler's Journal](./projects/incident-handlers-journal), [Incident Report Analysis](https://github.com/aaraf18/Incident-Report-Analysis) |
 | Network Traffic Analysis| [Cybersecurity Incident Report: Network Traffic Analysis](https://github.com/aaraf18/Cybersecurity-Incident-Report-Network-Traffic-Analysis) |
-| Risk & Vulnerability Mgmt | [Risk Register](./projects/risk-register), [Vulnerability Assessment Report](./projects/vulnerability-assessment) |
-| Asset Management        | [Home Asset Inventory](./projects/home-asset-inventory) |
-| Data Security           | [Data Leak Worksheet](./projects/data-leak-worksheet) |
+| Risk & Vulnerability Mgmt | [Vulnerability Assessment Report](./projects/vulnerability-assessment) |
 
 ---
 
