@@ -46,17 +46,14 @@ Here are the projects included in this repository:
 - [**Apply Filters to SQL Queries**](https://github.com/aaraf18/Apply-Filters-to-SQL-Queries)  
   Applied advanced filtering techniques to SQL queries for extracting and analyzing meaningful security-related data from large datasets.   
 
+- [**Vulnerability Assessment Report**](https://github.com/aaraf18/Vulnerability-Assessment-Report)  
+  Performed a vulnerability assessment, documented weaknesses, and suggested remediation strategies to improve security posture.
+  
 - [**Algorithm for File Updates in Python**](https://github.com/aaraf18/Algorithm-for-file-updates-in-Python)  
   Developed a Python script to securely update files, ensuring accuracy and integrity during the process. Showcases automation and scripting skills.      
 
 - [**Incident Handler's Journal**](./projects/incident-handlers-journal)  
-  Documented step-by-step actions taken during a cybersecurity incident, demonstrating structured incident handling skills.   
-
-- [**Risk Register**](./projects/risk-register)  
-  Built a detailed register of risks, classifying threats by likelihood and impact to prioritize mitigation efforts.  
-
-- [**Vulnerability Assessment Report**](./projects/vulnerability-assessment)  
-  Performed a vulnerability assessment, documented weaknesses, and suggested remediation strategies to improve security posture.  
+  Documented step-by-step actions taken during a cybersecurity incident, demonstrating structured incident handling skills.
 
 ---
 
@@ -70,7 +67,7 @@ Here are the projects included in this repository:
 | Linux Administration    | [File Permissions in Linux](https://github.com/aaraf18/File-Permissions-in-Linux) |
 | Incident Response       | [Incident Handler's Journal](./projects/incident-handlers-journal), [Incident Report Analysis](https://github.com/aaraf18/Incident-Report-Analysis) |
 | Network Traffic Analysis| [Cybersecurity Incident Report: Network Traffic Analysis](https://github.com/aaraf18/Cybersecurity-Incident-Report-Network-Traffic-Analysis) |
-| Risk & Vulnerability Mgmt | [Vulnerability Assessment Report](./projects/vulnerability-assessment) |
+| Risk & Vulnerability Mgmt | [Vulnerability Assessment Report](https://github.com/aaraf18/Vulnerability-Assessment-Report) |
 
 ---
 
